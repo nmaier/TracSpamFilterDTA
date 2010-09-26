@@ -1,15 +1,5 @@
 # -*- coding: utf-8 -*-
-#
-# (C) 2008 by Nils Maier
-#
-# This software is licensed as described in the file COPYING, which
-# you should have received as part of this distribution. The terms
-# are also available at http://trac.edgewall.com/license.html.
-#
-# This software consists of voluntary contributions made by many
-# individuals. For the exact contribution history, see the revision
-# history and logs, available at http://projects.edgewall.com/trac/.
-#
+# License: public domain
 # Author: Nils Maier <testnutzer123 at googlemail>
 
 import re
